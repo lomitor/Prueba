@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:20,1688877.m3u8
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:20,1688885.m3u8
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:20,1694255.m3u8
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:32,playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
